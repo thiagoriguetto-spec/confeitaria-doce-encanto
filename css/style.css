@@ -38,6 +38,14 @@ strong {
     color: rgb(176, 42, 76);
 }
 
+video {
+    max-width: 100%;
+    height:auto;
+    border-radius: 16px;
+     border-left: 6px solid  #5D4037;
+    border-right: 6px solid   #5D4037 ;
+}
+
 .topo {
     background-color:  #5D4037;
     text-align: center;
@@ -74,11 +82,55 @@ strong {
     max-width: 360px;
     margin: 24px auto;
     padding: 20px;
+    border-radius: 20px;
+    border-left: 5px solid   #8ED1B2 ;
+    border-right: 5px solid #8ED1B2;
 }
+
+.card img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 16px;
+    border-left: 5px solid #F4A7B9;
+    border-right: 5px solid #F4A7B9;
+}
+
+.banner{
+    background-image:url("../imagens/banner-doce-encanto.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 80px 20px;
+}
+
+.banner-texto{
+    max-width: 420px;
+    padding: 24px;
+    background-color: rgb(93, 64, 55, 0.85);
+}
+
+.banner-texto h1{
+    font-size: 38px;
+    line-height: 1.2;
+    color: #FFF4EE;
+    margin-top: 0;
+}
+
+.banner-texto p{
+    color:#FFF4EE;
+    margin-bottom: 0;
+
+}
+
+.banner-texto strong{
+    color: #FFF4EE;
+}
+
 
 #rodape {
     background-color: #5D4037;
     color: #FFF4EE;
     text-align: center;
     padding: 24px 20px;
+    opacity: 0.8;
 }
