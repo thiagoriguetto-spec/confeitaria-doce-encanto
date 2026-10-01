@@ -49,3 +49,36 @@ strong {
     font-size: 24px;
     color: #FFF4EE;
 }
+
+.sobre,
+.produtos,
+.processo {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.sobre {
+    background-color: #FFF4EE;
+}
+
+.produtos{
+    background-color: #F4A7B9;
+}
+
+.processo{
+    background-color: #8ED1B2 ;
+}
+
+.card {
+    background-color:  #FFF4EE;
+    max-width: 360px;
+    margin: 24px auto;
+    padding: 20px;
+}
+
+#rodape {
+    background-color: #5D4037;
+    color: #FFF4EE;
+    text-align: center;
+    padding: 24px 20px;
+}

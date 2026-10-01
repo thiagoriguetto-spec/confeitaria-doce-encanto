@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="Logotipo da Confeitaria Doce Encanto: cupcake com framboesa">
+  <title>Confeitaria Doce Encanto</title>
+  <!-- Emblema -->
+  <circle cx="150" cy="150" r="142" fill="#FFF4EE" stroke="#5D4037" stroke-width="5"/>
+  <circle cx="150" cy="150" r="128" fill="none" stroke="#F4A7B9" stroke-width="3" stroke-linecap="round" stroke-dasharray="0.1 10"/>
+
+  <!-- Forminha -->
+  <path d="M90 204 H210 L194 256 Q191 265 181 265 H119 Q109 265 106 256 Z" fill="#5D4037"/>
+  <g stroke="#8A6455" stroke-width="3" stroke-linecap="round">
+    <line x1="112" y1="210" x2="119" y2="259"/>
+    <line x1="131" y1="210" x2="134" y2="261"/>
+    <line x1="150" y1="210" x2="150" y2="261"/>
+    <line x1="169" y1="210" x2="166" y2="261"/>
+    <line x1="188" y1="210" x2="181" y2="259"/>
+  </g>
+
+  <!-- Chantilly em camadas -->
+  <rect x="80" y="166" width="140" height="44" rx="22" fill="#F4A7B9"/>
+  <rect x="98" y="132" width="104" height="42" rx="21" fill="#F7B9C8"/>
+  <rect x="117" y="101" width="66" height="40" rx="20" fill="#FAC9D5"/>
+  <path d="M150 66 C141 80 129 91 127 110 L173 110 C171 91 159 80 150 66 Z" fill="#FAC9D5"/>
+  <!-- Detalhes do giro -->
+  <g fill="none" stroke="#E27E99" stroke-width="3.5" stroke-linecap="round">
+    <path d="M96 190 Q150 202 204 190"/>
+    <path d="M112 156 Q150 166 188 156"/>
+    <path d="M130 124 Q150 132 170 124"/>
+  </g>
+
+  <!-- Framboesa e hortelã -->
+  <circle cx="150" cy="62" r="13" fill="#D63A5F"/>
+  <g fill="#F08AA4">
+    <circle cx="146" cy="58" r="2.4"/><circle cx="153" cy="57" r="2.4"/>
+    <circle cx="149" cy="65" r="2.4"/><circle cx="156" cy="64" r="2.4"/>
+  </g>
+  <path d="M158 52 Q172 38 184 47 Q174 60 158 57 Z" fill="#8ED1B2"/>
+  <path d="M160 54 Q170 47 178 48" fill="none" stroke="#5FAE8C" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Brilhos -->
+  <g fill="#F2C46D">
+    <path d="M62 96 L66 108 L78 112 L66 116 L62 128 L58 116 L46 112 L58 108 Z"/>
+    <path d="M240 118 L243 126 L251 129 L243 132 L240 140 L237 132 L229 129 L237 126 Z"/>
+    <path d="M226 64 L228 70 L234 72 L228 74 L226 80 L224 74 L218 72 L224 70 Z"/>
+  </g>
+</svg>
